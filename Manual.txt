@@ -1,0 +1,8 @@
+Accessories…小物類のファイル(拾えるアイテムなど)
+Character…キャラクター
+Furniture…家具
+Image…テクスチャ関連の画像など
+Interior…内装(ドアなどの装飾品)
+Tentative…仮のファイル用
+Stage…ステージ関係、ステージがらみの仮ファイルもここ
+Text…テキスト
