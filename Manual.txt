@@ -6,3 +6,4 @@ Interior…内装(ドアなどの装飾品)
 Tentative…仮のファイル用
 Stage…ステージ関係、ステージがらみの仮ファイルもここ
 Text…テキスト
+tkm…
